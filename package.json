@@ -1,0 +1,15 @@
+{
+  "name": "cn5006-week1-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CN5006 Week 1 JavaScript lab examples",
+  "scripts": {
+    "first": "node week1/first-program.js",
+    "sum": "node week1/add-two-numbers.js",
+    "check-number": "node week1/positive-negative-zero.js",
+    "arithmetic": "node week1/arithmetic-operations.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

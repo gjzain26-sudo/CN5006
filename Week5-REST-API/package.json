@@ -1,0 +1,14 @@
+{
+  "name": "cn5006-week5-rest-api",
+  "version": "1.0.0",
+  "description": "CN5006 Week 5 Express REST API and MongoDB lab",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
